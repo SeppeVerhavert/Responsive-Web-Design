@@ -1,0 +1,30 @@
+@media screen and (min-width: 1501px) {
+    body {
+        background-color: blue;
+    }
+
+}
+
+@media screen and (max-width: 1500px) {
+    body {
+        background-color: green;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: red;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    div.small {
+      display: none;
+    }
+  }
+
+  div.small {
+    background-color: yellow;
+    padding: 20px;
+    font-size: 500px;
+}
