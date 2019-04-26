@@ -12,13 +12,13 @@
         background-color: white;
     }
     #Medium {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: green;
         background-color: white;
     }
     #Small {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: red;
         background-color: white;
@@ -31,7 +31,7 @@
         font-size: 100%;
     }
     #Large {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: blue;
         background-color: white;
@@ -45,7 +45,7 @@
         margin-left: 66%;
     }
     #Small {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: red;
         background-color: white;
@@ -59,7 +59,7 @@
         font-size: 50%;
     }
     #Large {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: blue;
         background-color: white;
@@ -68,7 +68,7 @@
         margin: 1%;
     }
     #Medium {
-        visibility: visible;
+        visibility: hidden;
         font-family: 'Quicksand', sans-serif;
         color: green;
         background-color: white;
